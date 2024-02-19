@@ -56,6 +56,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SAVYASACHI02/SAVYASACHI02/output/snake.svg" alt="Snake animation" />
 
-###
+
