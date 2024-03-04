@@ -52,7 +52,7 @@
 
 ###
 
-<p align="center">I am a ML/AI enthusiast<br>Intrested in Website Development<br>Currently learning React Native for AppDev</p>
+<p align="center">I am a ML/AI enthusiast<br>React Website Developer<br>Currently learning React Native for AppDev</p>
 
 ###
 
